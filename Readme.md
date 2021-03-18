@@ -1,1 +1,1 @@
-# Magma-UT-Test-Pkg
+This is just a test package to test the package functions of [Magma-UT](https://github.com/ulthiel/Magma-UT).
